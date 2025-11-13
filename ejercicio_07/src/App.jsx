@@ -5,7 +5,7 @@ import { CambiarUsuario } from "./components/CambiarUsuario";
 function App() {
   return (
     <UsuarioProvider>
-      <h1>Ejemplo de Context API</h1>
+      <h1>Ejemplo de Context APIs</h1>
       <MostrarUsuario />
       <CambiarUsuario />
     </UsuarioProvider>
