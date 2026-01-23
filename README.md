@@ -22,6 +22,31 @@ Este repositorio contiene ejercicios progresivos diseñados para explorar y afia
 
 ## 🎯 Ejercicios
 
+### 🧮 Ejercicio 01: Juego Matemático
+
+<details>
+<summary><strong>Ver detalles</strong></summary>
+
+Juego interactivo de operaciones matemáticas básicas para practicar lógica y estado.
+
+**📋 Funcionalidad:**
+- 🎲 Generación aleatoria de operaciones (+, -, *, /)
+- ✅ Validación inmediata de respuestas
+- 📈 Contador de aciertos y errores
+- 🔄 Reinicio automático par transición
+
+**💡 Conceptos clave:**
+- `useState` y `useEffect` Hooks
+- Renderizado condicional
+- Manejo de objetos en el estado
+- Temporizadores (`setTimeout`)
+
+**📂 Carpeta:** [`ejercicio_01`](ejercicio_01)
+
+</details>
+
+---
+
 ### 📊 Ejercicio 02: Contador Simple
 
 <details>
@@ -232,6 +257,7 @@ npm run lint
 ## 📚 Roadmap de Aprendizaje
 ```
 📖 Nivel Básico
+   ├─ Ejercicio 01: Lógica básica y estado
    └─ Ejercicio 02: useState y eventos
 
 📖 Nivel Intermedio
